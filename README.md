@@ -1,1 +1,6 @@
 # Desafio-6
+
+Desafio da aula 06
+1-UtilizarafunçãonativadojavascriptsetIntervalparaqueacada5segundos,sejaadicionadoumnovoelementodentrodeumarray.Esseelementopodeserqualquercoisa,uma string, um inteiro contador, etc.
+2-Criarumprogramaquepeçaaousuário(utilizaroinquirer)umasequênciadenúmeros.Utilizarométodoreducedoarrayparamostraraousuárioasomadetodasosnúmeros.Utilizar o método filter do array para mostrar somente os números impares.
+3-Criarumprogramaquepeçaaousuárioasuadatadenascimento.Depois,criarumobjetodotipoDATEcomessadata,eprintarnoconsoletodososdadosdadata(dia:01,mes: 08, ano: 2020) separadamente.
